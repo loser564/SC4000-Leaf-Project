@@ -1,3 +1,5 @@
 # Ignore all jpg images
 *.jpg
 
+# Ignore all.tfrec files
+*.tfrec
