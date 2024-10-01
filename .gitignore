@@ -3,3 +3,6 @@
 
 # Ignore all.tfrec files
 *.tfrec
+
+# Ignore zip files
+*.zip
