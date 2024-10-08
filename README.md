@@ -1,8 +1,9 @@
 # SC4000-Leaf-Project
 
 ## Steps for Kaggle Dataset API
-1. Copy the kaggle.json file in this directory
-2. Paste it into
+1. pip install kaggle
+2. Copy the kaggle.json file in this directory
+3. Paste it into
     ```
     C:\Users\<Your-Username>\.kaggle\kaggle.json (windows)
     ```
@@ -10,12 +11,14 @@
     ~/.kaggle/kaggle.json (mac)
     ```
 
-3. Ensure file has correct permissions
+4. Ensure file has correct permissions
     ```
     chmod 600 ~/.kaggle/kaggle.json
     ```
 
-4. Run the kaggle comps download cell
+5. Run the kaggle comps download cell
+6. Unzip the file either in file explorer or through the unzip cell
+  - DOUBLE CHECK YOUR DIRECTORY
 
 ## Libraries needed
 ```
