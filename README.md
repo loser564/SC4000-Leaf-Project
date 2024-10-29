@@ -1,5 +1,7 @@
 # SC4000-Leaf-Project
 
+cassava leaf classification project
+
 ## Steps for Kaggle Dataset API
 1. pip install kaggle
 2. Copy the kaggle.json file in this directory
